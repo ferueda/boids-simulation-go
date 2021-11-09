@@ -13,7 +13,7 @@ Check this [YouTube video](https://www.youtube.com/watch?v=V4f_1_r80RY) to bette
 https://www.youtube.com/watch?v=V4f_1_r80RY
 
 ## Result
-![boids simulation](https://raw.githubusercontent.com/ferueda/boids-simulation-go/master/boids_sim.gif?token=ABVCOS7TRCB2RORMFK2GFA3BMBZOY)
+![boids simulation](https://github.com/ferueda/boids-simulation-go/blob/master/boids_sim.gif)
 
 ## How do boids work?
 Each bird attempts to maintain a reasonable amount of distance between itself and any nearby birds, to prevent overcrowding. Birds try to change their position so that it corresponds with the average alignment of other nearby birds. Every bird attempts to move towards the average position of other nearby birds.
