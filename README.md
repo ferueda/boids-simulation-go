@@ -1,4 +1,4 @@
-# Boids simulation in Go (Golang)
+# Boids simulation in Go
 
 [Boids](https://en.wikipedia.org/wiki/Boids) is an artificial life program, developed by Craig Reynolds in 1986, which simulates the flocking behaviour of birds.
 
